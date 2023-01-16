@@ -1,0 +1,22 @@
+{
+  "name": "cluster_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManishKhulbe/CLUSTER_TUTORIAL.git"
+  },
+  "author": "manish khulbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManishKhulbe/CLUSTER_TUTORIAL/issues"
+  },
+  "homepage": "https://github.com/ManishKhulbe/CLUSTER_TUTORIAL#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
